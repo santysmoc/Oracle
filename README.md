@@ -1,2 +1,0 @@
-# Oracle
-Practicas Oracle
